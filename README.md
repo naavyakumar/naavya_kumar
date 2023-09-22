@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web development at Bhilai Steel Plant, Bhilai as an intern**
 
-- 🌱 I’m currently learning **Full Stack, React js**
+- 🌱 I’m currently learning **Full Stack, React js, GSAP**
 
 - 💬 Ask me about **Web Development, HTML, CSS Java Script, My SQL and Tableau**
 
